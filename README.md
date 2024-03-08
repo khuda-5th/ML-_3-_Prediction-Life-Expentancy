@@ -29,11 +29,15 @@
 <img width="742" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/9928ea31-ad20-4482-9482-c8eed22458a6">
 
 - 처음에는 히트맵 분석 시 상관계수 0.5 미만의 feature들을 제거하려고 하였으나, 이 기준을 적용해도 될지 의문점이 생겼다. <br/>
+<br/>
+
 
 ### 선형 회귀, 랜덤 포레스트 모델 적용
 <img width="759" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/d2ad9675-5c58-4096-bc0d-466091eccf52">
 
 - 상관계수 0.5 미만의 feature들을 제거한 나머지 feature들로 모델을 훈련시키고 score를 출력했을 때 각각 과소적합과 과대적합이 발생하여 새로운 고려 기준을 세워야 했다.
+<br/>
+
 
 ### 최종 feature 선정
 <img width="719" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/033c753d-b489-411f-9d7c-608fee4d51fb">
@@ -43,6 +47,7 @@
 - 상관계수 0.5 미만을 제거한 후 나머지 속성, 랜덤 포레스트의 특성 중요도, 선형회귀 가중치 특성 중요도를 고려하여 최종 feature 8개를 선정하였다.
 
 <img width="696" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/79a72887-a12d-4ec3-81c2-b037e9c096ac">
+<br/>
 
 ### 데이터 전처리
 <img width="663" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/0cfdcc66-49b9-4cd4-8cdb-d63767148741">
@@ -52,6 +57,8 @@
 <img width="756" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/eeb82f42-c2ab-499d-a598-b075ee328422">
 
 - Null값을 포함한 행 삭제
+
+<br/>
 
 > ## Modeling & Architecture
 
