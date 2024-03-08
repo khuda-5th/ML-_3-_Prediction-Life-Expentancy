@@ -8,8 +8,8 @@
 
 ## 팀원 구성
 
-| 테스트 | 테스트 | 테스트 | 
-| 이다은 | 테스트 | 중임다 |
+|테스트|테스트|테스트| 
+|이다은|김채영|조준영|
 
 > ## 1. 주제 선정 배경
 <img width="784" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/69056efc-217f-451c-97b3-75c83234f59c"> 
