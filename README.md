@@ -60,7 +60,35 @@
 
 <br/>
 
-> ## Modeling & Architecture
+> ## 3. Modeling & Architecture
 
+### 모델 선정
 <img width="746" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/6845d5ba-5491-4e99-8f3a-3b40df44ca4e">
+
+- 최종 모델 선정 : XGBoostRegressor
+<br/>
+
+### Hyperparameter Tuning
+<img width="709" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/601c9385-1b26-44c3-85e4-e05c9f4b2e9f">
+
+- 그리드 서치 -> best_parameters 출력
+<br/>
+
+### 최종 모델 성능
+<img width="698" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/db4b6894-dd59-4acb-ad6d-d89a6438a7a1">
+<br/>
+
+### 기대수명 계산 Architecture
+<img width="725" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/46c8fee1-6f34-4e84-b59f-dd19ec1bc86b">
+
+- 사용자로부터 나라를 입력받아 그 해의 Adult_mortality, GDP 등의 국가 정보를 모델에 넣어줌
+- 사용자로부터 키, 체중을 입력받아 BMI를 계산하여 모델에 넣어줌
+- 음주량을 범주화된 수치로 받아 모델의 넣어줌
+- 입력값을 통해 모델로부터 산출된 기대 수명에 수면시간, 흡연 여부에 따라 후처리를 진행 => 최종 기대수명 출력
+<br/>
+
+### 최종 프로그램
+<img width="1482" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/f33b3388-bfff-450b-b44c-5466d783cfaf">
+
+> ## 4. 한계 및 의의
 
