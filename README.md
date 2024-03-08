@@ -11,8 +11,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/1a3b6ad0-fa42-4824-aee5-d4f0ead8e440)
-" width="200px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/1a3b6ad0-fa42-4824-aee5-d4f0ead8e440)" width="200px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
