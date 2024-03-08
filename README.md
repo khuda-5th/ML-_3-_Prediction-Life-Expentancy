@@ -11,13 +11,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 부팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
