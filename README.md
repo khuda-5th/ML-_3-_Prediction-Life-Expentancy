@@ -89,6 +89,7 @@
 
 ### 최종 프로그램
 <img width="1482" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/f33b3388-bfff-450b-b44c-5466d783cfaf">
+<br/>
 
 > ## 4. 한계 및 의의
 
