@@ -1,10 +1,10 @@
 # 💻 다변량 데이터 분석을 통한 기대수명 예측
 > ML_team3 : Prediction-Life-Expectancy
-
-
+<br/>
 
 ## 프로젝트 소개
 <img width="784" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/e906837d-22f0-4e12-9825-1b486c61e534">
+<br/>
 
 ## 팀원 구성
 
