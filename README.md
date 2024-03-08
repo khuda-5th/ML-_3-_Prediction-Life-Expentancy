@@ -19,8 +19,10 @@
 <br/>
 ### 원본 데이터셋
 <img width="746" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/85d5b147-39f0-4e2e-9478-1638cd9129da">
-- 원본 데이터셋 : Kaggle의 Life Expectancy Data
+
+- 원본 데이터셋 : Kaggle의 Life Expectancy Data <br/> <br/>
 - url : https://www.kaggle.com/datasets/rachchua/life-expectancy-data
 <br/>
+
 #### 히트맵, 산점도 분석
 <img width="742" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/9928ea31-ad20-4482-9482-c8eed22458a6">
