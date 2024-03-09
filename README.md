@@ -4,6 +4,7 @@
 
 ## 프로젝트 소개
 <img width="784" alt="image" src="https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/e906837d-22f0-4e12-9825-1b486c61e534">
+(사진 안 보내줘서 침팬지가 되었습니다.)
 <br/>
 
 ## 팀원 구성
