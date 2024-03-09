@@ -11,16 +11,17 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/c49e64df-c6fd-4936-9f08-214b9eea350b)" width="100px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/9f246174-f3fb-480b-a648-2df9fbf5eea9)" width="100px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/2ec15f1e-a1fb-400a-8c74-123252d38881)" width="100px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
     <tr/>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/a1891267-6557-46cb-8edd-e2b518c0f353)" width="100px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
-      <td align="center"><a href="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/4450e171-d185-4488-ad13-a83c598cccb7)"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/281f868d-1024-4093-95a8-7f34db861b7d)" width="100px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/3.jpeg" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/2.jpeg" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
+(사진 안 보내줘서 침팬지가 되었습니다.)
 
 <br/>
 
@@ -109,3 +110,8 @@
 
 > ## 4. 한계 및 의의
 
+- 모델의 오버피팅을 완전히 해결하지 못함
+- 데이터의 부족
+- 특성 선택의 어려움
+- 데이터의 한계에서 더 많은 데이터를 확보하면 좋을 것 같음
+- 실제 프로그램으로 발전시키면 좋을 것 같음
