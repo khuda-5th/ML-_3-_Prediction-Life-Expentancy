@@ -15,8 +15,8 @@
       <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
     <tr/>
-      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="/img/2.jpeg" width="150px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/3.jpeg" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/2.jpeg" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
     </tr>
   </tbody>
