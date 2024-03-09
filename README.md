@@ -11,13 +11,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/c49e64df-c6fd-4936-9f08-214b9eea350b)" width="100px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/9f246174-f3fb-480b-a648-2df9fbf5eea9)" width="100px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/2ec15f1e-a1fb-400a-8c74-123252d38881)" width="100px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : Dania</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 김채영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png)" width="150px;" alt=""/><br /><sub><b>팀원 : 이강훈</b></sub></a><br /></td>
     <tr/>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/a1891267-6557-46cb-8edd-e2b518c0f353)" width="100px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
-      <td align="center"><a href="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/4450e171-d185-4488-ad13-a83c598cccb7)"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="![image](https://github.com/leeeunda/ML_team3_Prediction-Life-Expectancy/assets/132417166/281f868d-1024-4093-95a8-7f34db861b7d)" width="100px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 이다은</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 조준영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/img/1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 최소영</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
